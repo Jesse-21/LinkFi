@@ -12,9 +12,9 @@ export const Footer = () => {
       fontSize="sm"
       py={4}
     >
-      Made with ❤️ by{" "}
+      Operated by{" "}
       <Text as="a" href="" color="gray.600">
-        @LinkFi
+       Thirdy Domains
       </Text>
     </Text>
   );
